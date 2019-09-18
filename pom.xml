@@ -68,6 +68,12 @@
             <id>myMavenRepo.write</id>
             <url>https://mymavenrepo.com/repo/eZwXRdaP9DJbNEG99Fl8/</url>
         </repository>
+             
+        <repository>
+            <id>github</id>
+            <name>GitHub OWNER Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/PramodhKumarM98/Jenkins_Pipeline_Example</url>
+         </repository>
     </distributionManagement>
-
+         
 </project>
